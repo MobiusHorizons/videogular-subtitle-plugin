@@ -1,0 +1,28 @@
+{
+  "name": "videogular-subtitle-plugin",
+  "version": "1.0",
+  "homepage": "https://github.com/MobiusHorizons/videogular-subtitle-plugin",
+  "authors": [
+    "miller debrom <f4rh4n.sen4ng@gmail.com> bower.json by Paul Martin <codemobius@gmail.com>"
+  ],
+  "description": "Subtitles plugin for Videogular",
+  "dependencies":{
+      "videogular" : "latest",
+      "vtt.js" :"latest"
+  },
+  "main": "text-track.js",
+  "keywords": [
+    "videogular",
+    "texttrack",
+    "track",
+    "subtitle"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
